@@ -14,3 +14,5 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 gem "bourbon"
+
+gem 'middleman-blog', '~> 3.5', '>= 3.5.3'

@@ -15,4 +15,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 gem "bourbon"
 
-gem "middleman-blog"
+gem 'middleman-blog', '~> 3.5', '>= 3.5.3'
